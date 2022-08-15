@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0 (6)">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/ehcache.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/hibernate-annotations-3.5.0-Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/hibernate-validator-8.0.0.CR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/jdbc-stdext-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/jta-3.1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dadaou/eclipse-workspace/Required/xerces.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
